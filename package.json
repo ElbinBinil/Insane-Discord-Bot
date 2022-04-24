@@ -1,0 +1,28 @@
+{
+  "name": "insane-discord-bot",
+  "version": "1.0.0",
+  "description": "This is the GitHub Repo of the Insane Discord Bot. Since this is a open source project every aspiring developer can contribute on this app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElbinBinil/Insane-Discord-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElbinBinil/Insane-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/ElbinBinil/Insane-Discord-Bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.31.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "ts-node": "^10.7.0"
+  }
+}
